@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html class="d2l">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <link href="/stylesheets/embed_9a8fda2b777570c78708bdb33b34e717b408f6c9.css?__ws=discuss.d2l.ai" media="all" rel="stylesheet" data-target="embed"  />
+      <link href="/stylesheets/embedded_theme_2_c27f70945e00665fa429eba0922d9e23f16dc382.css?__ws=discuss.d2l.ai" media="all" rel="stylesheet" data-target="embedded_theme" data-theme-id="2" data-theme-name="light"/>
+    <link rel="preload" href="/assets/break_string-cc617154cd957804f2f6a1f3bc68258c9cdca3d4b9a322bf777d145fed04790e.js" as="script" data-discourse-entrypoint="break_string">
+<script defer src="/assets/break_string-cc617154cd957804f2f6a1f3bc68258c9cdca3d4b9a322bf777d145fed04790e.js" data-discourse-entrypoint="break_string"></script>
+
+
+      <title>Multivariable Calculus - pytorch - D2L Discussion</title>
+
+    <meta id="data-embedded" data-referer="https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/multivariable-calculus.html">
+    <link rel="preload" href="/assets/embed-application-1896c09383b1c54200925ff073e8a02aaf7c9f1e568deff3fa7907fba28c423f.js" as="script" data-discourse-entrypoint="embed-application">
+<script defer src="/assets/embed-application-1896c09383b1c54200925ff073e8a02aaf7c9f1e568deff3fa7907fba28c423f.js" data-discourse-entrypoint="embed-application"></script>
+
+
+    
+  </head>
+  <body>
+    
+    <header class='discourse' data-embed-state='loaded'>
+  <span class='replies'>2 replies</span>
+</header>
+
+    <article class='post' id='post-3219'>
+      <a title="October 20, 2020  5:06pm" class="post-date" target="_blank" href="https://discuss.d2l.ai/t/multivariable-calculus/1090/2">Oct &#39;20</a>
+
+      <div class='author'>
+        <a href='https://discuss.d2l.ai/u/arthur' target="_blank"><img src='https://discuss.d2l.ai/user_avatar/discuss.d2l.ai/arthur/45/946_2.png' alt=''></a>
+      </div>
+      <div class='cooked'>
+        <h3 class='username'>
+          <a href='https://discuss.d2l.ai/u/arthur' target="_blank" class='new-user'>arthur</a>
+        </h3>
+        <p>Do you have any reference answers to the final math exercises? Thank you~</p>
+
+            <a data-link-to-post="3221" class="post-replies button" target="_blank" href="https://discuss.d2l.ai/t/multivariable-calculus/1090/2">1 reply</a>
+      </div>
+    </article>
+    <article class='post' id='post-3221'>
+      <a title="October 20, 2020  5:09pm" class="post-date" target="_blank" href="https://discuss.d2l.ai/t/multivariable-calculus/1090/3">Oct &#39;20</a>
+        <a data-link-to-post="3219" class="in-reply-to" target="_blank" href="https://discuss.d2l.ai/t/multivariable-calculus/1090/2">▶ arthur</a>
+
+      <div class='author'>
+        <a href='https://discuss.d2l.ai/u/goldpiggy' target="_blank"><img src='https://discuss.d2l.ai/user_avatar/discuss.d2l.ai/goldpiggy/45/10_2.png' alt=''></a>
+      </div>
+      <div class='cooked'>
+        <h3 class='username'>
+          <a href='https://discuss.d2l.ai/u/goldpiggy' target="_blank" class='staff'>goldpiggy</a>
+        </h3>
+        <p>Hi <a class="mention" href="https://discuss.d2l.ai/u/arthur">@arthur</a>, not for now based on our bandwidth. While we are looking for community contributors. Thanks for understanding!</p>
+
+      </div>
+    </article>
+
+    <footer class="clearfix">
+      <a target="_blank" href="https://discuss.d2l.ai"><img class="logo" src="https://discuss.d2l.ai/uploads/default/original/1X/16548389a3bff33a7e7fd1d7c5aad8813e0a4f71.png" /></a>
+      <a class="button" target="_blank" href="https://discuss.d2l.ai/t/multivariable-calculus/1090/3">Continue Discussion</a>
+    </footer>
+    <div class="clearfix"></div>
+
+
+  </body>
+</html>
